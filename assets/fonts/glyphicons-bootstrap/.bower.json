@@ -1,0 +1,13 @@
+{
+  "name": "glyphicons-bootstrap",
+  "homepage": "https://github.com/marcoceppi/bootstrap-glyphicons",
+  "_release": "21f2d21ae9",
+  "_resolution": {
+    "type": "branch",
+    "branch": "master",
+    "commit": "21f2d21ae9daed723b912492ecb8fb8f00340c55"
+  },
+  "_source": "https://github.com/marcoceppi/bootstrap-glyphicons.git",
+  "_target": "*",
+  "_originalSource": "https://github.com/marcoceppi/bootstrap-glyphicons.git"
+}

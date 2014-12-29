@@ -1,0 +1,132 @@
+<mockup version="1.0" skin="sketch" fontFace="Balsamiq Sans" measuredW="973" measuredH="285" mockupW="957" mockupH="269">
+  <controls>
+    <control controlID="28" controlTypeID="__group__" x="16" y="16" w="638" h="97" measuredW="638" measuredH="97" zOrder="0" locked="false" isInGroup="-1">
+      <controlProperties>
+        <controlName>custom%20color%20palette</controlName>
+        <markup>true</markup>
+      </controlProperties>
+      <groupChildrenDescriptors>
+        <control controlID="0" controlTypeID="com.balsamiq.mockups::Canvas" x="0" y="0" w="638" h="97" measuredW="100" measuredH="70" zOrder="0" locked="false" isInGroup="28"/>
+        <control controlID="1" controlTypeID="com.balsamiq.mockups::Label" x="10" y="6" w="-1" h="-1" measuredW="156" measuredH="24" zOrder="1" locked="false" isInGroup="28">
+          <controlProperties>
+            <size>16</size>
+            <text>Custom%20Color%20Palette</text>
+          </controlProperties>
+        </control>
+        <control controlID="8" controlTypeID="com.balsamiq.mockups::Label" x="10" y="69" w="-1" h="-1" measuredW="36" measuredH="19" zOrder="14" locked="false" isInGroup="28">
+          <controlProperties>
+            <color>10066329</color>
+            <size>11</size>
+            <text>header</text>
+          </controlProperties>
+        </control>
+        <control controlID="9" controlTypeID="com.balsamiq.mockups::Label" x="113" y="69" w="-1" h="-1" measuredW="49" measuredH="19" zOrder="15" locked="false" isInGroup="28">
+          <controlProperties>
+            <color>10066329</color>
+            <size>11</size>
+            <text>nav%20hover</text>
+          </controlProperties>
+        </control>
+        <control controlID="10" controlTypeID="com.balsamiq.mockups::Label" x="216" y="69" w="-1" h="-1" measuredW="32" measuredH="19" zOrder="16" locked="false" isInGroup="28">
+          <controlProperties>
+            <color>10066329</color>
+            <size>11</size>
+            <text>button</text>
+          </controlProperties>
+        </control>
+        <control controlID="11" controlTypeID="com.balsamiq.mockups::Label" x="319" y="69" w="-1" h="-1" measuredW="62" measuredH="19" zOrder="17" locked="false" isInGroup="28">
+          <controlProperties>
+            <color>10066329</color>
+            <size>11</size>
+            <text>button%20hover</text>
+          </controlProperties>
+        </control>
+        <control controlID="12" controlTypeID="com.balsamiq.mockups::Label" x="422" y="69" w="-1" h="-1" measuredW="17" measuredH="19" zOrder="18" locked="false" isInGroup="28">
+          <controlProperties>
+            <color>10066329</color>
+            <size>11</size>
+            <text>link</text>
+          </controlProperties>
+        </control>
+        <control controlID="13" controlTypeID="com.balsamiq.mockups::Label" x="525" y="69" w="-1" h="-1" measuredW="48" measuredH="19" zOrder="19" locked="false" isInGroup="28">
+          <controlProperties>
+            <color>10066329</color>
+            <size>11</size>
+            <text>link%20hover</text>
+          </controlProperties>
+        </control>
+        <control controlID="14" controlTypeID="com.balsamiq.mockups::Canvas" x="10" y="45" w="24" h="24" measuredW="100" measuredH="70" zOrder="2" locked="false" isInGroup="28">
+          <controlProperties>
+            <borderStyle>none</borderStyle>
+            <color>7733769</color>
+          </controlProperties>
+        </control>
+        <control controlID="15" controlTypeID="com.balsamiq.mockups::Label" x="42" y="47" w="-1" h="-1" measuredW="56" measuredH="21" zOrder="3" locked="false" isInGroup="28">
+          <controlProperties>
+            <text>%23760209</text>
+          </controlProperties>
+        </control>
+        <control controlID="16" controlTypeID="com.balsamiq.mockups::Canvas" x="113" y="45" w="24" h="24" measuredW="100" measuredH="70" zOrder="4" locked="false" isInGroup="28">
+          <controlProperties>
+            <borderStyle>none</borderStyle>
+            <color>9450297</color>
+          </controlProperties>
+        </control>
+        <control controlID="17" controlTypeID="com.balsamiq.mockups::Label" x="145" y="47" w="-1" h="-1" measuredW="56" measuredH="21" zOrder="5" locked="false" isInGroup="28">
+          <controlProperties>
+            <text>%23903339</text>
+          </controlProperties>
+        </control>
+        <control controlID="18" controlTypeID="com.balsamiq.mockups::Canvas" x="319" y="45" w="24" h="24" measuredW="100" measuredH="70" zOrder="6" locked="false" isInGroup="28">
+          <controlProperties>
+            <borderStyle>none</borderStyle>
+            <color>24747</color>
+          </controlProperties>
+        </control>
+        <control controlID="19" controlTypeID="com.balsamiq.mockups::Label" x="351" y="47" w="-1" h="-1" measuredW="57" measuredH="21" zOrder="7" locked="false" isInGroup="28">
+          <controlProperties>
+            <text>%230060AB</text>
+          </controlProperties>
+        </control>
+        <control controlID="20" controlTypeID="com.balsamiq.mockups::Canvas" x="525" y="45" w="24" h="24" measuredW="100" measuredH="70" zOrder="8" locked="false" isInGroup="28">
+          <controlProperties>
+            <borderStyle>none</borderStyle>
+            <color>15048976</color>
+          </controlProperties>
+        </control>
+        <control controlID="21" controlTypeID="com.balsamiq.mockups::Label" x="557" y="47" w="-1" h="-1" measuredW="51" measuredH="21" zOrder="9" locked="false" isInGroup="28">
+          <controlProperties>
+            <text>%23E5A110</text>
+          </controlProperties>
+        </control>
+        <control controlID="22" controlTypeID="com.balsamiq.mockups::Canvas" x="216" y="45" w="24" h="24" measuredW="100" measuredH="70" zOrder="10" locked="false" isInGroup="28">
+          <controlProperties>
+            <borderStyle>none</borderStyle>
+            <color>1998265</color>
+          </controlProperties>
+        </control>
+        <control controlID="23" controlTypeID="com.balsamiq.mockups::Label" x="248" y="47" w="-1" h="-1" measuredW="54" measuredH="21" zOrder="11" locked="false" isInGroup="28">
+          <controlProperties>
+            <text>%231E7DB9</text>
+          </controlProperties>
+        </control>
+        <control controlID="24" controlTypeID="com.balsamiq.mockups::Canvas" x="422" y="45" w="24" h="24" measuredW="100" measuredH="70" zOrder="12" locked="false" isInGroup="28">
+          <controlProperties>
+            <borderStyle>none</borderStyle>
+            <color>25774</color>
+          </controlProperties>
+        </control>
+        <control controlID="25" controlTypeID="com.balsamiq.mockups::Label" x="454" y="47" w="-1" h="-1" measuredW="58" measuredH="21" zOrder="13" locked="false" isInGroup="28">
+          <controlProperties>
+            <text>%230064AE</text>
+          </controlProperties>
+        </control>
+      </groupChildrenDescriptors>
+    </control>
+    <control controlID="29" controlTypeID="com.balsamiq.mockups::StickyNote" x="683" y="16" w="290" h="269" measuredW="109" measuredH="123" zOrder="1" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>%7Bcolor%3Ared%7DAbout%7Bcolor%7D%0AThis%20is%20an%20example%20of%20a%20custom%20color%20palette.%20It%20is%20set%20to%20be%20treated%20as%20Markup.%0A%20%0A%7Bcolor%3Ared%7DInstallation%7Bcolor%7D%0ATo%20use%20as%20a%20symbol%20library%2C%20add%20to%20your%20account%20assets%20or%20to%20a%20project%20assets%20folder.%0A%20%0A%7Bcolor%3Ared%7DUsage%7Bcolor%7D%0AUpdate%20colors%20as%20needed.%20Add%20to%20a%20mockup%20for%20reference.%0A%20%0A%7Bcolor%3Ared%7DVersion%20History%7Bcolor%7D%0ACreated%20by%20Balsamiq%20on%2011%20July%202014.</text>
+      </controlProperties>
+    </control>
+  </controls>
+</mockup>
